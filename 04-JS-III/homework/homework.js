@@ -260,7 +260,7 @@ function continueStatement(numero) {
     }
     return arreglo;
   }
-  console.log(continueStatement(6));
+  
 }
 
 
